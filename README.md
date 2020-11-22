@@ -1,4 +1,4 @@
-# Image colourisation
+# Image Colourisation
 
 Submitted as part of the MSc in Mathematical Modelling and Scientific Computing at the University of Oxford.
 
